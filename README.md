@@ -1,2 +1,0 @@
-# Opice
-Created with CodeSandbox
